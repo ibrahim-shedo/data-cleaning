@@ -93,5 +93,5 @@ Ensure your raw data file is in the data/ directory.
 Run notebooks/data_cleaning.ipynb or execute scripts/data_cleaning.py to clean the data.
 The cleaned data will be saved in the data/ directory as cleaned_data.csv.
 Contact
-For questions or contributions, reach out at [your-email@example.com].
+For questions or contributions, reach out at [ibrezma.shado@gmail.com].
 
